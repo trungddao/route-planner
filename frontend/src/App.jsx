@@ -32,6 +32,7 @@ function sanitizeStop(item, idx = 0) {
     name: String(item.name ?? 'Unknown Location'),
     type: String(item.type ?? ''),
     cluster: String(item.cluster ?? 'CENTRAL GWINNETT'),
+    address: String(item.address ?? ''),
     lat: safeNum(item.lat, 33.9562),
     lon: safeNum(item.lon, -83.988),
   };
@@ -94,8 +95,9 @@ function StreetRouteMap({ depot, stops, geometry, isOptimized }) {
       iconSize: [54, 28],
       iconAnchor: [27, 14],
     });
+    const depotAddrHtml = depot.address ? `<br/><span>${depot.address}</span>` : '';
     L.marker([depot.lat, depot.lon], { icon: startIcon })
-      .bindPopup(`<strong>START:</strong> ${depot.name} (Loc #${depot.gcpsId})`)
+      .bindPopup(`<strong>START:</strong> ${depot.name} (Loc #${depot.gcpsId})${depotAddrHtml}`)
       .addTo(group);
     bounds.push([depot.lat, depot.lon]);
 
@@ -109,8 +111,11 @@ function StreetRouteMap({ depot, stops, geometry, isOptimized }) {
         iconSize: [32, 32],
         iconAnchor: [16, 16],
       });
+      const stopAddrHtml = stop.address ? `<br/><span>${stop.address}</span>` : '';
       L.marker([stop.lat, stop.lon], { icon: stopIcon })
-        .bindPopup(`<strong>Stop ${index + 1}:</strong> ${stop.name} (Loc #${stop.gcpsId})`)
+        .bindPopup(
+          `<strong>Stop ${index + 1}:</strong> ${stop.name} (Loc #${stop.gcpsId})${stopAddrHtml}`
+        )
         .addTo(group);
       bounds.push([stop.lat, stop.lon]);
     });
@@ -199,7 +204,8 @@ export default function App() {
     return (
       loc.name.toLowerCase().includes(q) ||
       loc.gcpsId.toLowerCase().includes(q) ||
-      loc.cluster.toLowerCase().includes(q)
+      loc.cluster.toLowerCase().includes(q) ||
+      loc.address.toLowerCase().includes(q)
     );
   });
 
@@ -210,7 +216,8 @@ export default function App() {
       !q ||
       loc.name.toLowerCase().includes(q) ||
       loc.gcpsId.toLowerCase().includes(q) ||
-      loc.cluster.toLowerCase().includes(q);
+      loc.cluster.toLowerCase().includes(q) ||
+      loc.address.toLowerCase().includes(q);
     return matchesCluster && matchesSearch;
   });
 
@@ -316,6 +323,11 @@ export default function App() {
                     {depot.name} (Loc #{depot.gcpsId})
                   </span>
                 </div>
+                {depot.address && (
+                  <div className="text-sm font-medium text-slate-600 mt-1 ml-6.5">
+                    {depot.address}
+                  </div>
+                )}
 
                 <div className="no-print mt-3 flex flex-col lg:flex-row gap-3 lg:items-center">
                   <div className="relative flex-1 max-w-md">
@@ -329,7 +341,7 @@ export default function App() {
                         setDepotSearch(e.target.value);
                         setDepotDropdownOpen(true);
                       }}
-                      placeholder="Type school name or Loc # to change start..."
+                      placeholder="Type school name, address, or Loc #..."
                       className="w-full h-11 pl-11 pr-4 text-base font-medium bg-white border-2 border-slate-400 rounded-xl focus:outline-none focus:border-blue-700"
                     />
 
@@ -343,9 +355,16 @@ export default function App() {
                               onMouseDown={() => handleSelectDepot(loc)}
                               className="w-full text-left px-4 py-2.5 hover:bg-blue-50 flex items-center justify-between gap-3 cursor-pointer"
                             >
-                              <span className="font-bold text-slate-900 text-base truncate">
-                                {loc.name}
-                              </span>
+                              <div className="min-w-0">
+                                <div className="font-bold text-slate-900 text-base truncate">
+                                  {loc.name}
+                                </div>
+                                {loc.address && (
+                                  <div className="text-xs text-slate-500 truncate">
+                                    {loc.address}
+                                  </div>
+                                )}
+                              </div>
                               <span className="text-sm font-semibold text-slate-600 shrink-0">
                                 #{loc.gcpsId} • {loc.cluster}
                               </span>
@@ -423,7 +442,7 @@ export default function App() {
               type="text"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              placeholder="Search school name or Loc #..."
+              placeholder="Search school name, address, or Loc #..."
               className="w-full h-12 pl-11 pr-4 text-lg border-2 border-slate-400 rounded-xl focus:outline-none focus:border-blue-700"
             />
           </div>
@@ -456,7 +475,6 @@ export default function App() {
                   key={loc.id}
                   className="p-3.5 border-2 border-slate-300 rounded-xl flex items-center justify-between gap-3 bg-white"
                 >
-                  {/* Flexible text column so right buttons stay identical across all rows */}
                   <div className="min-w-0 flex-1">
                     <div className="text-base font-bold text-slate-900 leading-snug">
                       {loc.name}
@@ -467,9 +485,11 @@ export default function App() {
                         Loc #{loc.gcpsId} • {loc.cluster} ({loc.type})
                       </span>
                     </div>
+                    {loc.address && (
+                      <div className="text-xs text-slate-600 truncate mt-0.5">{loc.address}</div>
+                    )}
                   </div>
 
-                  {/* Fixed-scale action buttons */}
                   <div className="flex items-center gap-2 shrink-0">
                     {!isStart && (
                       <button
@@ -562,7 +582,6 @@ export default function App() {
                           : 'bg-white border-slate-400'
                       }`}
                     >
-                      {/* Left column: Checkbox, Number badge, and flexible text block */}
                       <div className="flex items-center gap-3.5 min-w-0 flex-1">
                         <button
                           onClick={() => toggleCheck(stop.id)}
@@ -599,10 +618,12 @@ export default function App() {
                               </>
                             )}
                           </div>
+                          {stop.address && (
+                            <div className="text-sm text-slate-600 mt-0.5">{stop.address}</div>
+                          )}
                         </div>
                       </div>
 
-                      {/* Right column: Fixed-scale Up, Down, and Remove buttons */}
                       <div className="no-print flex items-center gap-2 shrink-0 self-end sm:self-center">
                         <button
                           type="button"

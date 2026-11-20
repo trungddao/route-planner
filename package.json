@@ -1,7 +1,26 @@
 {
-  "dependencies": {
-    "@tailwindcss/vite": "^4.3.5",
-    "lucide-react": "^1.77.0",
-    "tailwindcss": "^4.3.5"
-  }
+  "name": "route-planner",
+  "version": "1.0.0",
+  "description": "A full-stack web application built for **Gwinnett County Public Schools (GCPS)** field, facilities, and logistics teams to plan, reorder, and optimize daily multi-stop driving routes across **146 active school and support facility locations**.",
+  "main": "index.js",
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  },
+  "scripts": {
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"green,cyan\" \"cd backend && uvicorn main:app --reload\" \"npm --prefix frontend run dev\"",
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trungddao/route-planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/trungddao/route-planner/issues"
+  },
+  "homepage": "https://github.com/trungddao/route-planner#readme"
 }

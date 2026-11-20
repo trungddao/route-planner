@@ -83,6 +83,8 @@ def load_locations_from_excel() -> List[Dict[str, Any]]:
         gcps_id = str(row.get("GCPSLocationID", "")).strip()
         if gcps_id.lower() == "nan":
             gcps_id = ""
+        elif gcps_id.endswith(".0"):
+            gcps_id = gcps_id[:-2]
 
         loc_type = str(row.get("GCPS_LocationType", "")).strip()
         if loc_type.lower() == "nan":
@@ -95,11 +97,20 @@ def load_locations_from_excel() -> List[Dict[str, Any]]:
         raw_id = str(row.get("ID", idx + 1)).strip()
         row_id = f"loc-{raw_id.split('.')[0] if raw_id.lower() != 'nan' else idx + 1}"
 
-        if row_id in coords_cache:
+        excel_lat = pd.to_numeric(row.get("Latitude"), errors="coerce")
+        excel_lon = pd.to_numeric(row.get("Longitude"), errors="coerce")
+        excel_addr = str(row.get("Address", "")).strip()
+
+        if pd.notna(excel_lat) and pd.notna(excel_lon):
+            lat, lon = float(excel_lat), float(excel_lon)
+            address = excel_addr if excel_addr and excel_addr.lower() != "nan" else ""
+        elif row_id in coords_cache:
             lat = coords_cache[row_id]["lat"]
             lon = coords_cache[row_id]["lon"]
+            address = coords_cache[row_id].get("address", "")
         else:
             lat, lon = CLUSTER_GPS.get(cluster, (33.9562, -83.9880))
+            address = ""
 
         locations.append(
             {
@@ -108,6 +119,7 @@ def load_locations_from_excel() -> List[Dict[str, Any]]:
                 "name": name,
                 "type": loc_type,
                 "cluster": cluster,
+                "address": address,
                 "lat": float(lat),
                 "lon": float(lon),
             }
