@@ -1,732 +1,878 @@
 {
   "loc-1": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 34.017305,
+    "lon": -84.172911,
+    "address": "4725 River Green Pkwy, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-2": {
-    "lat": 33.9885,
-    "lon": -83.898,
-    "source": "cluster_fallback"
+    "lat": 33.967175,
+    "lon": -83.89954,
+    "address": "770 Ewing Chapel Rd, Dacula, GA 30019",
+    "source": "census_street"
   },
   "loc-3": {
-    "lat": 33.9685,
-    "lon": -84.0485,
-    "source": "cluster_fallback"
+    "lat": 33.923446,
+    "lon": -84.073491,
+    "address": "2625 Lawrenceville Hwy, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-4": {
-    "lat": 33.8185,
-    "lon": -84.0645,
-    "source": "cluster_fallback"
+    "lat": 33.772618,
+    "lon": -84.046891,
+    "address": "4521 Centerville Hwy, Snellville, GA 30039",
+    "source": "census_street"
   },
   "loc-5": {
-    "lat": 33.8185,
-    "lon": -84.0645,
-    "source": "cluster_fallback"
+    "lat": 33.802265,
+    "lon": -84.070348,
+    "address": "3150 Spain Rd, Snellville, GA 30039",
+    "source": "census_street"
   },
   "loc-6": {
-    "lat": 33.8825,
-    "lon": -84.1415,
-    "source": "cluster_fallback"
+    "lat": 33.872183,
+    "lon": -84.1418,
+    "address": "5150 Arcado Rd Sw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-7": {
-    "lat": 33.9685,
-    "lon": -84.0485,
-    "source": "cluster_fallback"
+    "lat": 33.951866,
+    "lon": -84.068804,
+    "address": "2136 Old Norcross Rd, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-8": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.942652,
+    "lon": -84.201781,
+    "address": "123 Price Pl, Norcross, GA 30071",
+    "source": "census_street"
   },
   "loc-9": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.933639,
+    "lon": -84.17338,
+    "address": "1978 Beaver Ruin Rd, Norcross, GA 30071",
+    "source": "census_street"
   },
   "loc-10": {
-    "lat": 33.9685,
-    "lon": -84.0485,
-    "source": "cluster_fallback"
+    "lat": 33.953528,
+    "lon": -84.028543,
+    "address": "1221 Old Norcross Rd, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-11": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 33.979494,
+    "lon": -84.186248,
+    "address": "4300 S Berkeley Lake Rd Nw, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-12": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.926348,
+    "lon": -84.084779,
+    "address": "525 Bethesda School Rd, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-13": {
-    "lat": 33.8545,
-    "lon": -84.0185,
-    "source": "cluster_fallback"
+    "lat": 33.855221,
+    "lon": -84.01057,
+    "address": "2503 Skyland Dr, Snellville, GA 30078",
+    "source": "census_street"
   },
   "loc-14": {
-    "lat": 33.8845,
-    "lon": -84.0365,
-    "source": "cluster_fallback"
+    "lat": 33.88051,
+    "lon": -84.042993,
+    "address": "1330 Holly Brook Rd, Snellville, GA 30078",
+    "source": "census_street"
   },
   "loc-15": {
-    "lat": 33.9985,
-    "lon": -84.1012,
-    "source": "cluster_fallback"
+    "lat": 34.030787,
+    "lon": -84.062914,
+    "address": "3221 Mcginnis Ferry Road, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-16": {
-    "lat": 33.8825,
-    "lon": -84.1415,
-    "source": "cluster_fallback"
+    "lat": 33.859703,
+    "lon": -84.11625,
+    "address": "958 Cole Rd Sw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-17": {
-    "lat": 33.9685,
-    "lon": -84.0485,
-    "source": "cluster_fallback"
+    "lat": 33.925977,
+    "lon": -84.021978,
+    "address": "3615 Sugarloaf Pkwy, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-18": {
-    "lat": 33.8185,
-    "lon": -84.0645,
-    "source": "cluster_fallback"
+    "lat": 33.842279,
+    "lon": -84.031313,
+    "address": "3115 Scenic Hwy S, Snellville, GA 30039",
+    "source": "osm_street"
   },
   "loc-19": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 34.018993,
+    "lon": -84.143913,
+    "address": "2930 Albion Farm Rd, Duluth, GA 30097",
+    "source": "census_street"
   },
   "loc-20": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 33.960339,
+    "lon": -84.147561,
+    "address": "3878 Old Norcross Rd, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-21": {
-    "lat": 33.9285,
-    "lon": -83.8925,
-    "source": "cluster_fallback"
+    "lat": 33.892787,
+    "lon": -83.914439,
+    "address": "555 Ozora Rd, Loganville, GA 30052",
+    "source": "census_street"
   },
   "loc-22": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.936615,
+    "lon": -84.120858,
+    "address": "1331 Pleasant Hill Rd, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-23": {
-    "lat": 33.8845,
-    "lon": -84.0365,
-    "source": "cluster_fallback"
+    "lat": 33.902076,
+    "lon": -84.014416,
+    "address": "1075 Rocky Rd, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-24": {
-    "lat": 33.9885,
-    "lon": -83.898,
-    "source": "cluster_fallback"
+    "lat": 33.999724,
+    "lon": -83.90483,
+    "address": "2500 Fence Rd, Dacula, GA 30019",
+    "source": "census_street"
   },
   "loc-25": {
-    "lat": 34.0925,
-    "lon": -83.8885,
-    "source": "cluster_fallback"
+    "lat": 34.074887,
+    "lon": -83.873179,
+    "address": "4500 Braselton Hwy, Hoschton, GA 30548",
+    "source": "census_street"
   },
   "loc-26": {
-    "lat": 34.0545,
-    "lon": -83.9725,
-    "source": "cluster_fallback"
+    "lat": 33.996061,
+    "lon": -83.936492,
+    "address": "1707 Hurricane Shoals Rd, Dacula, GA 30019",
+    "source": "census_street"
   },
   "loc-27": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.951301,
+    "lon": -84.123303,
+    "address": "1755 Centerview Dr, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-28": {
-    "lat": 34.0925,
-    "lon": -83.8885,
-    "source": "cluster_fallback"
+    "lat": 34.045294,
+    "lon": -83.922586,
+    "address": "1725 Auburn Rd, Dacula, GA 30019",
+    "source": "census_street"
   },
   "loc-29": {
-    "lat": 34.0545,
-    "lon": -83.9725,
-    "source": "cluster_fallback"
+    "lat": 34.021444,
+    "lon": -83.9865,
+    "address": "2020 Buford Dr, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-30": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.90385,
+    "lon": -84.22388,
+    "address": "1700 Graves Rd, Norcross, GA 30093",
+    "source": "census_street"
   },
   "loc-31": {
-    "lat": 33.8945,
-    "lon": -83.9585,
-    "source": "cluster_fallback"
+    "lat": 33.893499,
+    "lon": -83.957157,
+    "address": "460 Grayson Pkwy, Grayson, GA 30017",
+    "source": "census_street"
   },
   "loc-32": {
-    "lat": 33.8845,
-    "lon": -84.0365,
-    "source": "cluster_fallback"
+    "lat": 33.894938,
+    "lon": -84.068426,
+    "address": "400 Gwin Oaks Dr, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-33": {
-    "lat": 33.9285,
-    "lon": -83.8925,
-    "source": "cluster_fallback"
+    "lat": 33.943232,
+    "lon": -83.855664,
+    "address": "3550 New Hope Rd, Dacula, GA 30019",
+    "source": "census_street"
   },
   "loc-34": {
-    "lat": 34.0845,
-    "lon": -83.9385,
-    "source": "cluster_fallback"
+    "lat": 34.097745,
+    "lon": -83.978661,
+    "address": "3946 S Bogan Rd, Buford, GA 30519",
+    "source": "census_street"
   },
   "loc-35": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 33.986155,
+    "lon": -84.13384,
+    "address": "3123 Claiborne Dr, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-36": {
-    "lat": 33.8845,
-    "lon": -84.0365,
-    "source": "cluster_fallback"
+    "lat": 33.854869,
+    "lon": -84.062992,
+    "address": "1801 Hewatt Rd Sw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-37": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.90881,
+    "lon": -84.14742,
+    "address": "1315 Dickens Rd Nw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-38": {
-    "lat": 34.0845,
-    "lon": -83.9385,
-    "source": "cluster_fallback"
+    "lat": 34.096216,
+    "lon": -83.93808,
+    "address": "3443 Ridge Rd, Buford, GA 30519",
+    "source": "census_street"
   },
   "loc-39": {
-    "lat": 33.9985,
-    "lon": -84.1012,
-    "source": "cluster_fallback"
+    "lat": 33.988528,
+    "lon": -84.060261,
+    "address": "1970 Sever Rd, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-40": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.963275,
+    "lon": -83.965096,
+    "address": "12 Village Way, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-41": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.942802,
+    "lon": -84.081417,
+    "address": "1025 Herrington Rd, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-42": {
-    "lat": 33.8825,
-    "lon": -84.1415,
-    "source": "cluster_fallback"
+    "lat": 33.886391,
+    "lon": -84.103165,
+    "address": "401 N River Dr Sw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-43": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.945898,
+    "lon": -83.995245,
+    "address": "122 Gwinnett Dr, Lawrenceville, GA 30046",
+    "source": "osm_street"
   },
   "loc-44": {
-    "lat": 34.0628,
-    "lon": -84.0725,
-    "source": "cluster_fallback"
+    "lat": 34.072069,
+    "lon": -84.070056,
+    "address": "4488 Tench Rd, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-45": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.893246,
+    "lon": -84.153072,
+    "address": "531 Lilburn School Rd Nw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-46": {
-    "lat": 33.9285,
-    "lon": -83.8925,
-    "source": "cluster_fallback"
+    "lat": 33.924143,
+    "lon": -83.92104,
+    "address": "1705 New Hope Rd, Lawrenceville, GA 30045",
+    "source": "census_street"
   },
   "loc-47": {
-    "lat": 33.8545,
-    "lon": -84.0185,
-    "source": "cluster_fallback"
+    "lat": 33.838485,
+    "lon": -83.943151,
+    "address": "3900 Brushy Fork Rd, Loganville, GA 30052",
+    "source": "census_street"
   },
   "loc-48": {
-    "lat": 33.9985,
-    "lon": -84.1012,
-    "source": "cluster_fallback"
+    "lat": 33.99366,
+    "lon": -84.119314,
+    "address": "3030 Bunten Rd, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-49": {
-    "lat": 34.0185,
-    "lon": -84.0125,
-    "source": "cluster_fallback"
+    "lat": 33.959838,
+    "lon": -84.035178,
+    "address": "1600 Riverside Pkwy, Lawrenceville, GA 30043",
+    "source": "osm_street"
   },
   "loc-50": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.920997,
+    "lon": -84.167707,
+    "address": "5025 Georgia Belle Ct, Norcross, GA 30093",
+    "source": "census_street"
   },
   "loc-51": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.913525,
+    "lon": -84.12909,
+    "address": "4129 Shady Dr Nw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-52": {
-    "lat": 33.8825,
-    "lon": -84.1415,
-    "source": "cluster_fallback"
+    "lat": 33.839108,
+    "lon": -84.115272,
+    "address": "1500 Pounds Rd Sw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-53": {
-    "lat": 33.9885,
-    "lon": -83.898,
-    "source": "cluster_fallback"
+    "lat": 34.032434,
+    "lon": -83.861934,
+    "address": "442 E Union Grove Cir, Auburn, GA 30011",
+    "source": "census_street"
   },
   "loc-54": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.8761,
+    "lon": -84.1991,
+    "address": "6575 Cherokee Dr, Tucker, GA 30084",
+    "source": "kept_existing"
   },
   "loc-55": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.945928,
+    "lon": -84.206409,
+    "address": "150 Hunt St, Norcross, GA 30071",
+    "source": "census_street"
   },
   "loc-56": {
-    "lat": 33.8545,
-    "lon": -84.0185,
-    "source": "cluster_fallback"
+    "lat": 33.810268,
+    "lon": -84.009936,
+    "address": "3050 Xavier Ray Ct, Snellville, GA 30039",
+    "source": "census_street"
   },
   "loc-57": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.926426,
+    "lon": -84.001465,
+    "address": "590 Old Snellville Hwy, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-58": {
-    "lat": 33.9985,
-    "lon": -84.1012,
-    "source": "cluster_fallback"
+    "lat": 34.013993,
+    "lon": -84.093488,
+    "address": "1615 Old Peachtree Rd Nw, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-59": {
-    "lat": 33.8185,
-    "lon": -84.0645,
-    "source": "cluster_fallback"
+    "lat": 33.795357,
+    "lon": -84.053447,
+    "address": "4350 Campbell Rd, Snellville, GA 30039",
+    "source": "census_street"
   },
   "loc-60": {
-    "lat": 34.0845,
-    "lon": -83.9385,
-    "source": "cluster_fallback"
+    "lat": 34.089144,
+    "lon": -83.961204,
+    "address": "2707 Kilgore Rd, Buford, GA 30519",
+    "source": "census_street"
   },
   "loc-61": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.962055,
+    "lon": -84.236841,
+    "address": "5995 Crooked Creek Rd, Peachtree Corners, GA 30092",
+    "source": "census_street"
   },
   "loc-62": {
-    "lat": 33.8945,
-    "lon": -83.9585,
-    "source": "cluster_fallback"
+    "lat": 33.891046,
+    "lon": -84.006305,
+    "address": "1500 North Rd, Snellville, GA 30078",
+    "source": "census_street"
   },
   "loc-63": {
-    "lat": 34.0925,
-    "lon": -83.8885,
-    "source": "cluster_fallback"
+    "lat": 34.021444,
+    "lon": -83.9865,
+    "address": "2020 Buford Dr, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-64": {
-    "lat": 34.0628,
-    "lon": -84.0725,
-    "source": "cluster_fallback"
+    "lat": 34.097658,
+    "lon": -84.105804,
+    "address": "5445 Settles Bridge Rd, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-65": {
-    "lat": 34.0628,
-    "lon": -84.0725,
-    "source": "cluster_fallback"
+    "lat": 34.072636,
+    "lon": -84.05369,
+    "address": "251 Buford Highway, Suwanee, GA 30024",
+    "source": "osm_street"
   },
   "loc-66": {
-    "lat": 34.0185,
-    "lon": -84.0125,
-    "source": "cluster_fallback"
+    "lat": 34.048184,
+    "lon": -84.007613,
+    "address": "888 Rock Springs Rd, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-67": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.898093,
+    "lon": -84.197736,
+    "address": "6066 Rockbridge School Rd, Norcross, GA 30093",
+    "source": "census_street"
   },
   "loc-68": {
-    "lat": 33.8545,
-    "lon": -84.0185,
-    "source": "cluster_fallback"
+    "lat": 33.817423,
+    "lon": -83.963499,
+    "address": "4151 Rosebud Rd, Loganville, GA 30052",
+    "source": "census_street"
   },
   "loc-69": {
-    "lat": 33.8185,
-    "lon": -84.0645,
-    "source": "cluster_fallback"
+    "lat": 33.8284,
+    "lon": -84.0758,
+    "address": "2400 Ross Rd, Snellville, GA 30039",
+    "source": "kept_existing"
   },
   "loc-70": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.936446,
+    "lon": -83.95606,
+    "address": "275 Simonton Rd, Lawrenceville, GA 30045",
+    "source": "census_street"
   },
   "loc-71": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.997684,
+    "lon": -84.229563,
+    "address": "4525 E Jones Bridge Rd, Peachtree Corners, GA 30092",
+    "source": "census_street"
   },
   "loc-72": {
-    "lat": 33.8945,
-    "lon": -83.9585,
-    "source": "cluster_fallback"
+    "lat": 33.903149,
+    "lon": -83.964187,
+    "address": "1725 Grayson Hwy, Grayson, GA 30017",
+    "source": "census_street"
   },
   "loc-73": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.940854,
+    "lon": -84.233744,
+    "address": "6155 Atlantic Blvd, Norcross, GA 30071",
+    "source": "census_street"
   },
   "loc-74": {
-    "lat": 34.1165,
-    "lon": -84.0345,
-    "source": "cluster_fallback"
+    "lat": 34.101301,
+    "lon": -84.04026,
+    "address": "939 Level Creek Rd, Sugar Hill, GA 30518",
+    "source": "census_street"
   },
   "loc-75": {
-    "lat": 34.0628,
-    "lon": -84.0725,
-    "source": "cluster_fallback"
+    "lat": 34.047669,
+    "lon": -84.055279,
+    "address": "3875 Smithtown Rd, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-76": {
-    "lat": 34.1165,
-    "lon": -84.0345,
-    "source": "cluster_fallback"
+    "lat": 34.126156,
+    "lon": -84.045773,
+    "address": "5695 Sycamore Rd, Sugar Hill, GA 30518",
+    "source": "census_street"
   },
   "loc-77": {
-    "lat": 34.0185,
-    "lon": -84.0125,
-    "source": "cluster_fallback"
+    "lat": 34.009156,
+    "lon": -83.995554,
+    "address": "600 Taylor School Dr, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-78": {
-    "lat": 33.8945,
-    "lon": -83.9585,
-    "source": "cluster_fallback"
+    "lat": 33.871207,
+    "lon": -83.960075,
+    "address": "841 Cooper Rd, Grayson, GA 30017",
+    "source": "census_street"
   },
   "loc-79": {
-    "lat": 34.0185,
-    "lon": -84.0125,
-    "source": "cluster_fallback"
+    "lat": 34.016723,
+    "lon": -84.023495,
+    "address": "75 Taylor Rd, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-80": {
-    "lat": 34.1165,
-    "lon": -84.0345,
-    "source": "cluster_fallback"
+    "lat": 34.143773,
+    "lon": -84.063939,
+    "address": "6442 Suwanee Dam Rd, Sugar Hill, GA 30518",
+    "source": "census_street"
   },
   "loc-81": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.926451,
+    "lon": -84.001448,
+    "address": "588 Old Snellville Hwy, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-82": {
-    "lat": 34.0545,
-    "lon": -83.9725,
-    "source": "cluster_fallback"
+    "lat": 34.021444,
+    "lon": -83.9865,
+    "address": "2020 Buford Dr, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-83": {
-    "lat": 33.9285,
-    "lon": -83.8925,
-    "source": "cluster_fallback"
+    "lat": 33.917313,
+    "lon": -83.904048,
+    "address": "2255 New Hope Rd, Lawrenceville, GA 30045",
+    "source": "census_street"
   },
   "loc-84": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.907866,
+    "lon": -84.111884,
+    "address": "405 Pleasant Hill Rd Nw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-85": {
-    "lat": 33.8845,
-    "lon": -84.0365,
-    "source": "cluster_fallback"
+    "lat": 33.884794,
+    "lon": -84.039598,
+    "address": "1255 Dogwood Rd, Snellville, GA 30078",
+    "source": "census_street"
   },
   "loc-86": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.950444,
+    "lon": -83.999596,
+    "address": "564 W Crogan St, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-87": {
-    "lat": 34.0185,
-    "lon": -84.0125,
-    "source": "cluster_fallback"
+    "lat": 34.017221,
+    "lon": -84.022138,
+    "address": "50 Taylor Rd, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-88": {
-    "lat": 33.9885,
-    "lon": -83.898,
-    "source": "cluster_fallback"
+    "lat": 33.990215,
+    "lon": -83.898159,
+    "address": "123 Broad St, Dacula, GA 30019",
+    "source": "census_street"
   },
   "loc-89": {
-    "lat": 33.9685,
-    "lon": -84.0485,
-    "source": "cluster_fallback"
+    "lat": 33.954241,
+    "lon": -84.034358,
+    "address": "1335 Old Norcross Rd, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-90": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 34.00997,
+    "lon": -84.143307,
+    "address": "3737 Brock Rd, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-91": {
-    "lat": 33.8945,
-    "lon": -83.9585,
-    "source": "cluster_fallback"
+    "lat": 33.871982,
+    "lon": -83.924064,
+    "address": "50 Hope Hollow Rd, Loganville, GA 30052",
+    "source": "census_street"
   },
   "loc-92": {
-    "lat": 34.1165,
-    "lon": -84.0345,
-    "source": "cluster_fallback"
+    "lat": 34.08434,
+    "lon": -84.03158,
+    "address": "918 Buford Hwy, Sugar Hill, GA 30518",
+    "source": "census_street"
   },
   "loc-93": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.942275,
+    "lon": -84.135168,
+    "address": "3921 Club Pl, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-94": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.923063,
+    "lon": -84.147119,
+    "address": "4455 Steve Reynolds Blvd, Norcross, GA 30093",
+    "source": "census_street"
   },
   "loc-95": {
-    "lat": 34.0925,
-    "lon": -83.8885,
-    "source": "cluster_fallback"
+    "lat": 34.076734,
+    "lon": -83.878266,
+    "address": "4400 Braselton Hwy, Hoschton, GA 30548",
+    "source": "census_street"
   },
   "loc-96": {
-    "lat": 34.0545,
-    "lon": -83.9725,
-    "source": "cluster_fallback"
+    "lat": 34.051791,
+    "lon": -83.954725,
+    "address": "2351 Sunny Hill Rd, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-97": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.970884,
+    "lon": -84.210304,
+    "address": "5300 Spalding Dr, Norcross, GA 30092",
+    "source": "census_street"
   },
   "loc-98": {
-    "lat": 34.0628,
-    "lon": -84.0725,
-    "source": "cluster_fallback"
+    "lat": 34.084569,
+    "lon": -84.072247,
+    "address": "20 Level Creek Rd, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-99": {
-    "lat": 33.8825,
-    "lon": -84.1415,
-    "source": "cluster_fallback"
+    "lat": 33.858213,
+    "lon": -84.115327,
+    "address": "998 Cole Rd Sw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-100": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.95324,
+    "lon": -84.224207,
+    "address": "5850 Peachtree Industrial Blvd, Norcross, GA 30071",
+    "source": "census_street"
   },
   "loc-101": {
-    "lat": 33.9985,
-    "lon": -84.1012,
-    "source": "cluster_fallback"
+    "lat": 34.011053,
+    "lon": -84.090671,
+    "address": "1555 Old Peachtree Rd Nw, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-102": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.98185,
+    "lon": -84.07655,
+    "address": "5900 Sugarloaf Pkwy, Lawrenceville, GA 30043",
+    "source": "verified_pin"
   },
   "loc-103": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.95992,
+    "lon": -84.003967,
+    "address": "501 W Pike St, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-104": {
-    "lat": 34.0845,
-    "lon": -83.9385,
-    "source": "cluster_fallback"
+    "lat": 34.080216,
+    "lon": -83.911419,
+    "address": "3655 Sardis Church Road, Buford, GA 30519",
+    "source": "census_street"
   },
   "loc-105": {
-    "lat": 33.8185,
-    "lon": -84.0645,
-    "source": "cluster_fallback"
+    "lat": 33.824175,
+    "lon": -84.073412,
+    "address": "4210 Shiloh Rd, Snellville, GA 30039",
+    "source": "census_street"
   },
   "loc-106": {
-    "lat": 33.8545,
-    "lon": -84.0185,
-    "source": "cluster_fallback"
+    "lat": 33.855109,
+    "lon": -84.009695,
+    "address": "2288 Main St E, Snellville, GA 30078",
+    "source": "census_street"
   },
   "loc-107": {
-    "lat": 33.8945,
-    "lon": -83.9585,
-    "source": "cluster_fallback"
+    "lat": 33.871496,
+    "lon": -83.95953,
+    "address": "821 Cooper Rd, Grayson, GA 30017",
+    "source": "census_street"
   },
   "loc-108": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.9038,
+    "lon": -84.1285,
+    "address": "4355 Lawrenceville Hwy Nw, Lilburn, GA 30047",
+    "source": "kept_existing"
   },
   "loc-109": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 34.004276,
+    "lon": -84.141985,
+    "address": "3057 Main St, Duluth, GA 30096",
+    "source": "osm_street"
   },
   "loc-110": {
-    "lat": 33.8945,
-    "lon": -83.9585,
-    "source": "cluster_fallback"
+    "lat": 33.902211,
+    "lon": -83.963461,
+    "address": "1777 Grayson Hwy, Grayson, GA 30017",
+    "source": "census_street"
   },
   "loc-111": {
-    "lat": 34.0185,
-    "lon": -84.0125,
-    "source": "cluster_fallback"
+    "lat": 33.998606,
+    "lon": -84.017835,
+    "address": "170 Russell Rd, Lawrenceville, GA 30043",
+    "source": "census_street"
   },
   "loc-112": {
-    "lat": 33.8845,
-    "lon": -84.0365,
-    "source": "cluster_fallback"
+    "lat": 33.908045,
+    "lon": -84.011244,
+    "address": "1000 Old Snellville Hwy, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-113": {
-    "lat": 33.9885,
-    "lon": -83.898,
-    "source": "cluster_fallback"
+    "lat": 33.99154,
+    "lon": -83.896694,
+    "address": "137 Dacula Rd, Dacula, GA 30019",
+    "source": "census_street"
   },
   "loc-114": {
-    "lat": 33.9922,
-    "lon": -84.1485,
-    "source": "cluster_fallback"
+    "lat": 33.984171,
+    "lon": -84.158221,
+    "address": "3200 Pleasant Hill Rd, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-115": {
-    "lat": 33.8845,
-    "lon": -84.0365,
-    "source": "cluster_fallback"
+    "lat": 33.885309,
+    "lon": -84.069179,
+    "address": "3250 River Dr, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-116": {
-    "lat": 33.8545,
-    "lon": -84.0185,
-    "source": "cluster_fallback"
+    "lat": 33.840552,
+    "lon": -83.945182,
+    "address": "3800 Brushy Fork Rd, Loganville, GA 30052",
+    "source": "census_street"
   },
   "loc-117": {
-    "lat": 33.9985,
-    "lon": -84.1012,
-    "source": "cluster_fallback"
+    "lat": 34.014657,
+    "lon": -84.104343,
+    "address": "1950 Old Peachtree Rd, Duluth, GA 30097",
+    "source": "census_street"
   },
   "loc-118": {
-    "lat": 34.0845,
-    "lon": -83.9385,
-    "source": "cluster_fallback"
+    "lat": 34.101854,
+    "lon": -83.93855,
+    "address": "3575 Ridge Rd, Buford, GA 30519",
+    "source": "census_street"
   },
   "loc-119": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.963347,
+    "lon": -83.965125,
+    "address": "8 Village Way, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-120": {
-    "lat": 34.1165,
-    "lon": -84.0345,
-    "source": "cluster_fallback"
+    "lat": 34.14674,
+    "lon": -84.062627,
+    "address": "6482 Suwanee Dam Rd, Sugar Hill, GA 30518",
+    "source": "census_street"
   },
   "loc-121": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.889444,
+    "lon": -84.144748,
+    "address": "4994 Lawrenceville Hwy Nw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-122": {
-    "lat": 33.9285,
-    "lon": -83.8925,
-    "source": "cluster_fallback"
+    "lat": 33.89327,
+    "lon": -83.913732,
+    "address": "550 Ozora Rd, Loganville, GA 30052",
+    "source": "census_street"
   },
   "loc-123": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.938262,
+    "lon": -84.020586,
+    "address": "1221 Lawrenceville Hwy, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-124": {
-    "lat": 34.0628,
-    "lon": -84.0725,
-    "source": "cluster_fallback"
+    "lat": 34.076848,
+    "lon": -84.060592,
+    "address": "170 Peachtree Industrial Blvd, Sugar Hill, GA 30518",
+    "source": "census_street"
   },
   "loc-125": {
-    "lat": 33.9985,
-    "lon": -84.1012,
-    "source": "cluster_fallback"
+    "lat": 34.012544,
+    "lon": -84.06378,
+    "address": "1221 Northbrook Pkwy, Suwanee, GA 30024",
+    "source": "census_street"
   },
   "loc-126": {
-    "lat": 34.0925,
-    "lon": -83.8885,
-    "source": "cluster_fallback"
+    "lat": 34.076699,
+    "lon": -83.878049,
+    "address": "4404 Braselton Hwy, Hoschton, GA 30548",
+    "source": "census_street"
   },
   "loc-127": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.985071,
+    "lon": -84.230393,
+    "address": "5440 W Jones Bridge Rd, Peachtree Corners, GA 30092",
+    "source": "census_street"
   },
   "loc-128": {
-    "lat": 33.9185,
-    "lon": -84.1782,
-    "source": "cluster_fallback"
+    "lat": 33.944747,
+    "lon": -84.138017,
+    "address": "3939 Shackleford Rd, Duluth, GA 30096",
+    "source": "census_street"
   },
   "loc-129": {
-    "lat": 33.9685,
-    "lon": -84.0485,
-    "source": "cluster_fallback"
+    "lat": 33.925903,
+    "lon": -84.020953,
+    "address": "3555 Sugarloaf Pkwy, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-130": {
-    "lat": 33.8185,
-    "lon": -84.0645,
-    "source": "cluster_fallback"
+    "lat": 33.824836,
+    "lon": -84.071256,
+    "address": "4285 Shiloh Rd, Snellville, GA 30039",
+    "source": "census_street"
   },
   "loc-131": {
-    "lat": 33.8545,
-    "lon": -84.0185,
-    "source": "cluster_fallback"
+    "lat": 33.834589,
+    "lon": -84.001477,
+    "address": "3155 Pate Rd, Snellville, GA 30078",
+    "source": "census_street"
   },
   "loc-132": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.941319,
+    "lon": -84.203406,
+    "address": "321 Price Place Pl Nw, Norcross, GA 30071",
+    "source": "census_street"
   },
   "loc-133": {
-    "lat": 33.9145,
-    "lon": -84.1325,
-    "source": "cluster_fallback"
+    "lat": 33.927594,
+    "lon": -84.107713,
+    "address": "3500 Cruse Rd, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-134": {
-    "lat": 33.8825,
-    "lon": -84.1415,
-    "source": "cluster_fallback"
+    "lat": 33.885267,
+    "lon": -84.119793,
+    "address": "130 Killian Hill Rd Sw, Lilburn, GA 30047",
+    "source": "census_street"
   },
   "loc-135": {
-    "lat": 34.0545,
-    "lon": -83.9725,
-    "source": "cluster_fallback"
+    "lat": 34.045744,
+    "lon": -83.943902,
+    "address": "2300 Braselton Hwy, Buford, GA 30519",
+    "source": "census_street"
   },
   "loc-136": {
-    "lat": 34.1087,
-    "lon": -84.0441,
-    "source": "override"
+    "lat": 34.10871,
+    "lon": -84.04412,
+    "address": "1160 Level Creek Rd, Sugar Hill, GA 30518",
+    "source": "verified_pin"
   },
   "loc-137": {
-    "lat": 34.0545,
-    "lon": -83.9725,
-    "source": "cluster_fallback"
+    "lat": 33.97285,
+    "lon": -83.98645,
+    "address": "723 Hi Hope Rd, Lawrenceville, GA 30043",
+    "source": "verified_pin"
   },
   "loc-138": {
-    "lat": 33.9412,
-    "lon": -84.2135,
-    "source": "cluster_fallback"
+    "lat": 33.95355,
+    "lon": -84.20545,
+    "address": "5550 Peachtree Industrial Blvd, Norcross, GA 30071",
+    "source": "verified_pin"
   },
   "loc-139": {
-    "lat": 33.9631,
-    "lon": -84.0069,
-    "source": "override"
+    "lat": 33.96312,
+    "lon": -84.00691,
+    "address": "970 McElvaney Ln NW, Lawrenceville, GA 30044",
+    "source": "verified_pin"
   },
   "loc-140": {
-    "lat": 34.0545,
-    "lon": -83.9725,
-    "source": "cluster_fallback"
+    "lat": 33.97215,
+    "lon": -83.98615,
+    "address": "713 Hi Hope Rd, Lawrenceville, GA 30043",
+    "source": "verified_pin"
   },
   "loc-141": {
-    "lat": 33.9562,
-    "lon": -83.988,
-    "source": "cluster_fallback"
+    "lat": 33.954241,
+    "lon": -84.034358,
+    "address": "1335 Old Norcross Rd, Lawrenceville, GA 30046",
+    "source": "census_street"
   },
   "loc-142": {
-    "lat": 33.9685,
-    "lon": -84.0485,
-    "source": "cluster_fallback"
+    "lat": 33.952873,
+    "lon": -84.059708,
+    "address": "990 McElvaney Lane Northwest, Lawrenceville, GA 30044",
+    "source": "census_street"
   },
   "loc-143": {
-    "lat": 33.9564,
+    "lat": 33.95642,
     "lon": -83.9961,
-    "source": "override"
+    "address": "53 Gwinnett Dr, Lawrenceville, GA 30046",
+    "source": "verified_pin"
   },
   "loc-144": {
-    "lat": 33.9863,
-    "lon": -84.0789,
-    "source": "override"
+    "lat": 34.01604,
+    "lon": -84.05593,
+    "address": "437 Old Peachtree Rd NW, Suwanee, GA 30024",
+    "source": "verified_pin"
   },
   "loc-146": {
-    "lat": 33.9548,
-    "lon": -83.995,
-    "source": "override"
+    "lat": 33.95481,
+    "lon": -83.99502,
+    "address": "610 W Crogan St, Lawrenceville, GA 30046",
+    "source": "verified_pin"
   },
   "loc-149": {
-    "lat": 33.9285,
-    "lon": -83.8925,
-    "source": "cluster_fallback"
+    "lat": 33.956687,
+    "lon": -84.022747,
+    "address": "Gwinnett County, GA",
+    "source": "osm_street"
   }
 }
