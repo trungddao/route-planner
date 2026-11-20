@@ -1,0 +1,732 @@
+{
+  "loc-1": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-2": {
+    "lat": 33.9885,
+    "lon": -83.898,
+    "source": "cluster_fallback"
+  },
+  "loc-3": {
+    "lat": 33.9685,
+    "lon": -84.0485,
+    "source": "cluster_fallback"
+  },
+  "loc-4": {
+    "lat": 33.8185,
+    "lon": -84.0645,
+    "source": "cluster_fallback"
+  },
+  "loc-5": {
+    "lat": 33.8185,
+    "lon": -84.0645,
+    "source": "cluster_fallback"
+  },
+  "loc-6": {
+    "lat": 33.8825,
+    "lon": -84.1415,
+    "source": "cluster_fallback"
+  },
+  "loc-7": {
+    "lat": 33.9685,
+    "lon": -84.0485,
+    "source": "cluster_fallback"
+  },
+  "loc-8": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-9": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-10": {
+    "lat": 33.9685,
+    "lon": -84.0485,
+    "source": "cluster_fallback"
+  },
+  "loc-11": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-12": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-13": {
+    "lat": 33.8545,
+    "lon": -84.0185,
+    "source": "cluster_fallback"
+  },
+  "loc-14": {
+    "lat": 33.8845,
+    "lon": -84.0365,
+    "source": "cluster_fallback"
+  },
+  "loc-15": {
+    "lat": 33.9985,
+    "lon": -84.1012,
+    "source": "cluster_fallback"
+  },
+  "loc-16": {
+    "lat": 33.8825,
+    "lon": -84.1415,
+    "source": "cluster_fallback"
+  },
+  "loc-17": {
+    "lat": 33.9685,
+    "lon": -84.0485,
+    "source": "cluster_fallback"
+  },
+  "loc-18": {
+    "lat": 33.8185,
+    "lon": -84.0645,
+    "source": "cluster_fallback"
+  },
+  "loc-19": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-20": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-21": {
+    "lat": 33.9285,
+    "lon": -83.8925,
+    "source": "cluster_fallback"
+  },
+  "loc-22": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-23": {
+    "lat": 33.8845,
+    "lon": -84.0365,
+    "source": "cluster_fallback"
+  },
+  "loc-24": {
+    "lat": 33.9885,
+    "lon": -83.898,
+    "source": "cluster_fallback"
+  },
+  "loc-25": {
+    "lat": 34.0925,
+    "lon": -83.8885,
+    "source": "cluster_fallback"
+  },
+  "loc-26": {
+    "lat": 34.0545,
+    "lon": -83.9725,
+    "source": "cluster_fallback"
+  },
+  "loc-27": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-28": {
+    "lat": 34.0925,
+    "lon": -83.8885,
+    "source": "cluster_fallback"
+  },
+  "loc-29": {
+    "lat": 34.0545,
+    "lon": -83.9725,
+    "source": "cluster_fallback"
+  },
+  "loc-30": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-31": {
+    "lat": 33.8945,
+    "lon": -83.9585,
+    "source": "cluster_fallback"
+  },
+  "loc-32": {
+    "lat": 33.8845,
+    "lon": -84.0365,
+    "source": "cluster_fallback"
+  },
+  "loc-33": {
+    "lat": 33.9285,
+    "lon": -83.8925,
+    "source": "cluster_fallback"
+  },
+  "loc-34": {
+    "lat": 34.0845,
+    "lon": -83.9385,
+    "source": "cluster_fallback"
+  },
+  "loc-35": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-36": {
+    "lat": 33.8845,
+    "lon": -84.0365,
+    "source": "cluster_fallback"
+  },
+  "loc-37": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-38": {
+    "lat": 34.0845,
+    "lon": -83.9385,
+    "source": "cluster_fallback"
+  },
+  "loc-39": {
+    "lat": 33.9985,
+    "lon": -84.1012,
+    "source": "cluster_fallback"
+  },
+  "loc-40": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-41": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-42": {
+    "lat": 33.8825,
+    "lon": -84.1415,
+    "source": "cluster_fallback"
+  },
+  "loc-43": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-44": {
+    "lat": 34.0628,
+    "lon": -84.0725,
+    "source": "cluster_fallback"
+  },
+  "loc-45": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-46": {
+    "lat": 33.9285,
+    "lon": -83.8925,
+    "source": "cluster_fallback"
+  },
+  "loc-47": {
+    "lat": 33.8545,
+    "lon": -84.0185,
+    "source": "cluster_fallback"
+  },
+  "loc-48": {
+    "lat": 33.9985,
+    "lon": -84.1012,
+    "source": "cluster_fallback"
+  },
+  "loc-49": {
+    "lat": 34.0185,
+    "lon": -84.0125,
+    "source": "cluster_fallback"
+  },
+  "loc-50": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-51": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-52": {
+    "lat": 33.8825,
+    "lon": -84.1415,
+    "source": "cluster_fallback"
+  },
+  "loc-53": {
+    "lat": 33.9885,
+    "lon": -83.898,
+    "source": "cluster_fallback"
+  },
+  "loc-54": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-55": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-56": {
+    "lat": 33.8545,
+    "lon": -84.0185,
+    "source": "cluster_fallback"
+  },
+  "loc-57": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-58": {
+    "lat": 33.9985,
+    "lon": -84.1012,
+    "source": "cluster_fallback"
+  },
+  "loc-59": {
+    "lat": 33.8185,
+    "lon": -84.0645,
+    "source": "cluster_fallback"
+  },
+  "loc-60": {
+    "lat": 34.0845,
+    "lon": -83.9385,
+    "source": "cluster_fallback"
+  },
+  "loc-61": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-62": {
+    "lat": 33.8945,
+    "lon": -83.9585,
+    "source": "cluster_fallback"
+  },
+  "loc-63": {
+    "lat": 34.0925,
+    "lon": -83.8885,
+    "source": "cluster_fallback"
+  },
+  "loc-64": {
+    "lat": 34.0628,
+    "lon": -84.0725,
+    "source": "cluster_fallback"
+  },
+  "loc-65": {
+    "lat": 34.0628,
+    "lon": -84.0725,
+    "source": "cluster_fallback"
+  },
+  "loc-66": {
+    "lat": 34.0185,
+    "lon": -84.0125,
+    "source": "cluster_fallback"
+  },
+  "loc-67": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-68": {
+    "lat": 33.8545,
+    "lon": -84.0185,
+    "source": "cluster_fallback"
+  },
+  "loc-69": {
+    "lat": 33.8185,
+    "lon": -84.0645,
+    "source": "cluster_fallback"
+  },
+  "loc-70": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-71": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-72": {
+    "lat": 33.8945,
+    "lon": -83.9585,
+    "source": "cluster_fallback"
+  },
+  "loc-73": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-74": {
+    "lat": 34.1165,
+    "lon": -84.0345,
+    "source": "cluster_fallback"
+  },
+  "loc-75": {
+    "lat": 34.0628,
+    "lon": -84.0725,
+    "source": "cluster_fallback"
+  },
+  "loc-76": {
+    "lat": 34.1165,
+    "lon": -84.0345,
+    "source": "cluster_fallback"
+  },
+  "loc-77": {
+    "lat": 34.0185,
+    "lon": -84.0125,
+    "source": "cluster_fallback"
+  },
+  "loc-78": {
+    "lat": 33.8945,
+    "lon": -83.9585,
+    "source": "cluster_fallback"
+  },
+  "loc-79": {
+    "lat": 34.0185,
+    "lon": -84.0125,
+    "source": "cluster_fallback"
+  },
+  "loc-80": {
+    "lat": 34.1165,
+    "lon": -84.0345,
+    "source": "cluster_fallback"
+  },
+  "loc-81": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-82": {
+    "lat": 34.0545,
+    "lon": -83.9725,
+    "source": "cluster_fallback"
+  },
+  "loc-83": {
+    "lat": 33.9285,
+    "lon": -83.8925,
+    "source": "cluster_fallback"
+  },
+  "loc-84": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-85": {
+    "lat": 33.8845,
+    "lon": -84.0365,
+    "source": "cluster_fallback"
+  },
+  "loc-86": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-87": {
+    "lat": 34.0185,
+    "lon": -84.0125,
+    "source": "cluster_fallback"
+  },
+  "loc-88": {
+    "lat": 33.9885,
+    "lon": -83.898,
+    "source": "cluster_fallback"
+  },
+  "loc-89": {
+    "lat": 33.9685,
+    "lon": -84.0485,
+    "source": "cluster_fallback"
+  },
+  "loc-90": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-91": {
+    "lat": 33.8945,
+    "lon": -83.9585,
+    "source": "cluster_fallback"
+  },
+  "loc-92": {
+    "lat": 34.1165,
+    "lon": -84.0345,
+    "source": "cluster_fallback"
+  },
+  "loc-93": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-94": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-95": {
+    "lat": 34.0925,
+    "lon": -83.8885,
+    "source": "cluster_fallback"
+  },
+  "loc-96": {
+    "lat": 34.0545,
+    "lon": -83.9725,
+    "source": "cluster_fallback"
+  },
+  "loc-97": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-98": {
+    "lat": 34.0628,
+    "lon": -84.0725,
+    "source": "cluster_fallback"
+  },
+  "loc-99": {
+    "lat": 33.8825,
+    "lon": -84.1415,
+    "source": "cluster_fallback"
+  },
+  "loc-100": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-101": {
+    "lat": 33.9985,
+    "lon": -84.1012,
+    "source": "cluster_fallback"
+  },
+  "loc-102": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-103": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-104": {
+    "lat": 34.0845,
+    "lon": -83.9385,
+    "source": "cluster_fallback"
+  },
+  "loc-105": {
+    "lat": 33.8185,
+    "lon": -84.0645,
+    "source": "cluster_fallback"
+  },
+  "loc-106": {
+    "lat": 33.8545,
+    "lon": -84.0185,
+    "source": "cluster_fallback"
+  },
+  "loc-107": {
+    "lat": 33.8945,
+    "lon": -83.9585,
+    "source": "cluster_fallback"
+  },
+  "loc-108": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-109": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-110": {
+    "lat": 33.8945,
+    "lon": -83.9585,
+    "source": "cluster_fallback"
+  },
+  "loc-111": {
+    "lat": 34.0185,
+    "lon": -84.0125,
+    "source": "cluster_fallback"
+  },
+  "loc-112": {
+    "lat": 33.8845,
+    "lon": -84.0365,
+    "source": "cluster_fallback"
+  },
+  "loc-113": {
+    "lat": 33.9885,
+    "lon": -83.898,
+    "source": "cluster_fallback"
+  },
+  "loc-114": {
+    "lat": 33.9922,
+    "lon": -84.1485,
+    "source": "cluster_fallback"
+  },
+  "loc-115": {
+    "lat": 33.8845,
+    "lon": -84.0365,
+    "source": "cluster_fallback"
+  },
+  "loc-116": {
+    "lat": 33.8545,
+    "lon": -84.0185,
+    "source": "cluster_fallback"
+  },
+  "loc-117": {
+    "lat": 33.9985,
+    "lon": -84.1012,
+    "source": "cluster_fallback"
+  },
+  "loc-118": {
+    "lat": 34.0845,
+    "lon": -83.9385,
+    "source": "cluster_fallback"
+  },
+  "loc-119": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-120": {
+    "lat": 34.1165,
+    "lon": -84.0345,
+    "source": "cluster_fallback"
+  },
+  "loc-121": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-122": {
+    "lat": 33.9285,
+    "lon": -83.8925,
+    "source": "cluster_fallback"
+  },
+  "loc-123": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-124": {
+    "lat": 34.0628,
+    "lon": -84.0725,
+    "source": "cluster_fallback"
+  },
+  "loc-125": {
+    "lat": 33.9985,
+    "lon": -84.1012,
+    "source": "cluster_fallback"
+  },
+  "loc-126": {
+    "lat": 34.0925,
+    "lon": -83.8885,
+    "source": "cluster_fallback"
+  },
+  "loc-127": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-128": {
+    "lat": 33.9185,
+    "lon": -84.1782,
+    "source": "cluster_fallback"
+  },
+  "loc-129": {
+    "lat": 33.9685,
+    "lon": -84.0485,
+    "source": "cluster_fallback"
+  },
+  "loc-130": {
+    "lat": 33.8185,
+    "lon": -84.0645,
+    "source": "cluster_fallback"
+  },
+  "loc-131": {
+    "lat": 33.8545,
+    "lon": -84.0185,
+    "source": "cluster_fallback"
+  },
+  "loc-132": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-133": {
+    "lat": 33.9145,
+    "lon": -84.1325,
+    "source": "cluster_fallback"
+  },
+  "loc-134": {
+    "lat": 33.8825,
+    "lon": -84.1415,
+    "source": "cluster_fallback"
+  },
+  "loc-135": {
+    "lat": 34.0545,
+    "lon": -83.9725,
+    "source": "cluster_fallback"
+  },
+  "loc-136": {
+    "lat": 34.1087,
+    "lon": -84.0441,
+    "source": "override"
+  },
+  "loc-137": {
+    "lat": 34.0545,
+    "lon": -83.9725,
+    "source": "cluster_fallback"
+  },
+  "loc-138": {
+    "lat": 33.9412,
+    "lon": -84.2135,
+    "source": "cluster_fallback"
+  },
+  "loc-139": {
+    "lat": 33.9631,
+    "lon": -84.0069,
+    "source": "override"
+  },
+  "loc-140": {
+    "lat": 34.0545,
+    "lon": -83.9725,
+    "source": "cluster_fallback"
+  },
+  "loc-141": {
+    "lat": 33.9562,
+    "lon": -83.988,
+    "source": "cluster_fallback"
+  },
+  "loc-142": {
+    "lat": 33.9685,
+    "lon": -84.0485,
+    "source": "cluster_fallback"
+  },
+  "loc-143": {
+    "lat": 33.9564,
+    "lon": -83.9961,
+    "source": "override"
+  },
+  "loc-144": {
+    "lat": 33.9863,
+    "lon": -84.0789,
+    "source": "override"
+  },
+  "loc-146": {
+    "lat": 33.9548,
+    "lon": -83.995,
+    "source": "override"
+  },
+  "loc-149": {
+    "lat": 33.9285,
+    "lon": -83.8925,
+    "source": "cluster_fallback"
+  }
+}
